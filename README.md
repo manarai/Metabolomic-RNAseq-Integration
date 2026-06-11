@@ -15,7 +15,7 @@ End-to-end RNA-seq + LC-MS metabolomics integration pipeline on the maize 282 di
 
 ## Pipeline overview
 
-The `multiomics_integration_v4.ipynb` notebook is the **clean, DESeq2-primary version** with full integration. Run end-to-end:
+The `multiomics_integration_final.ipynb` notebook is the **clean, DESeq2-primary version** with full integration. Run end-to-end:
 
 | Step | What it does | Key outputs |
 |---|---|---|
@@ -172,9 +172,7 @@ Each layer answers a different question:
 
 ### Other notebooks in this repo
 
-- `multiomics_integration_v2.ipynb` — comprehensive version (~130 cells) with side-by-side comparisons of five DE methods (Welch, Wilcoxon, limma-trend, DESeq2, edgeR), per-replicate-vs-averaging pseudoreplication validation, and an honest discussion of analytical choices. Useful as a reference / methods supplement.
-- `multiomics_integration_v3.ipynb` — minimal/lean version. Same pipeline, ~25 cells, suitable for quick reproduction.
-- `multiomics_integration_notebook.ipynb` — original exploratory draft (kept for history).
+- `multiomics_integration_initial.ipynb` — comprehensive version (~130 cells) with side-by-side comparisons of five DE methods (Welch, Wilcoxon, limma-trend, DESeq2, edgeR), per-replicate-vs-averaging pseudoreplication validation, and an honest discussion of analytical choices. Useful as a reference / methods supplement.
 
 ---
 
@@ -251,24 +249,24 @@ This installs from CRAN/Bioconductor:
 conda activate maize-multiomics
 
 # Option A — run end-to-end from the terminal (writes a fully-rendered HTML report)
-jupyter nbconvert --to html --execute multiomics_integration_v4.ipynb \
+jupyter nbconvert --to html --execute multiomics_integration_final.ipynb \
     --ExecutePreprocessor.timeout=1800
 
 # Option B — interactive
-jupyter lab multiomics_integration_v4.ipynb
+jupyter lab multiomics_integrationfinal.ipynb
 ```
 
 ### Generate a clean code-free HTML report (for collaborators)
 ```bash
 jupyter nbconvert --to html --no-input \
-    multiomics_integration_v4_executed.ipynb
+    multiomics_integrationfinal_executed.ipynb
 ```
 
 ---
 
 ## Output files
 
-All written to `outputs_v4/` (created automatically):
+All written to `outputsfinal/` (created automatically):
 
 **Section 3 — Metabolite correlation**
 - `metabolite_vs_ergosterol_correlation.csv` — every metabolite's r, p, FDR vs ergosterol
@@ -338,16 +336,14 @@ maize-fusarium-multiomics/
 ├── .gitignore
 ├── .gitattributes                         # if using git-lfs
 │
-├── multiomics_integration_v4.ipynb        # CLEAN, primary notebook (45 cells)
-├── multiomics_integration_v3.ipynb        # minimal version (~25 cells)
-├── multiomics_integration_v2.ipynb        # comprehensive reference (~130 cells)
-├── multiomics_integration_notebook.ipynb  # original draft
+├── multiomics_integrationfinal.ipynb        # CLEAN, primary notebook (45 cells)      
+├── multiomics_integrationinitial.ipynb        # comprehensive reference (~130 cells)
 │
 ├── 181029_…FINALDATASETforMS1.csv         # metabolomics (input; ~125 MB)
 ├── 260217_…FPKM.csv                       # RNA-seq FPKM (input)
 ├── 210328_SC_Fvert_Novoseq_clean_counts.csv  # RNA-seq raw counts (input)
 │
-└── outputs_v4/                            # all generated tables (gitignored)
+└── outputsfinal/                            # all generated tables (gitignored)
     ├── DE_label_R_vs_S_DESeq2.csv
     ├── DE_metabolomic_extremes_DESeq2.csv
     ├── gene_metabolite_pairs.csv
