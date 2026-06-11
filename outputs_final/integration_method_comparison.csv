@@ -1,0 +1,6 @@
+Method,Disease factor,r_vs_ergosterol,sparsity
+Sparse PLS (cca-zoo),F3,-0.6749492093340909,L1
+PLSCanonical (dense),F1,0.9284697417930583,none
+MOFA (Bayesian spike-slab),F1,0.9105276408397067,spike-slab
+DIABLO (supervised sCCA),F1,-0.927059415893615,L1 + supervised
+JIVE (joint variance),F1,0.8608064560231872,rank-based
