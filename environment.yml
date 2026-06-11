@@ -1,0 +1,40 @@
+name: maize-multiomics
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  # ----- core Python -----
+  - python=3.10
+  - pip
+
+  # ----- numerical / data -----
+  - numpy>=1.24
+  - pandas>=2.0
+  - scipy>=1.10
+  - scikit-learn>=1.3
+  - statsmodels>=0.14         # mediation OLS
+
+  # ----- plotting -----
+  - matplotlib>=3.7
+  - seaborn>=0.12
+
+  # ----- notebooks -----
+  - jupyterlab>=4.0
+  - notebook>=7.0
+  - ipykernel
+  - nbconvert>=7.0
+
+  # ----- I/O -----
+  - requests                  # KEGG REST API
+
+  # ----- R bridge (for DIABLO, JIVE, limma-trend, edgeR via %%R magic) -----
+  - rpy2>=3.5
+
+  # ----- pip-only packages (not on conda) -----
+  - pip:
+      - pydeseq2>=0.5         # primary DE method (DESeq2 in Python)
+      - cca-zoo>=2.0          # sparse PLS (SCCA_PMD) for multi-omics integration
+      - mofapy2>=0.7          # Bayesian multi-omics factor analysis
+      - gprofiler-official    # optional: GO/KEGG enrichment on hub genes

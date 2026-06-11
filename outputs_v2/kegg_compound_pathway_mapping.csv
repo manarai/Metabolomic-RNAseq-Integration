@@ -1,0 +1,306 @@
+Metabolite,PathwayID,PathwayName
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map00130,Ubiquinone and other terpenoid-quinone biosynthesis
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map00360,Phenylalanine metabolism
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map00940,Phenylpropanoid biosynthesis
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map00996,Biosynthesis of various alkaloids
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map00999,Biosynthesis of various plant secondary metabolites
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map01060,Biosynthesis of plant secondary metabolites
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map01070,Biosynthesis of plant hormones
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map01100,Metabolic pathways
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map01110,Biosynthesis of secondary metabolites
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map01120,Microbial metabolism in diverse environments
+C_4841_165.0549mz_10.85min _94331_2-Hydroxycinnamic acid o-Coumaric acid)),map01220,Degradation of aromatic compounds
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map00130,Ubiquinone and other terpenoid-quinone biosynthesis
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map00360,Phenylalanine metabolism
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map00940,Phenylpropanoid biosynthesis
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map00996,Biosynthesis of various alkaloids
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map00999,Biosynthesis of various plant secondary metabolites
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map01060,Biosynthesis of plant secondary metabolites
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map01070,Biosynthesis of plant hormones
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map01100,Metabolic pathways
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map01110,Biosynthesis of secondary metabolites
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map01120,Microbial metabolism in diverse environments
+C_12212_179.0704mz_13.44min _19335_2-Methoxycinnamic acid),map01220,Degradation of aromatic compounds
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00130,Ubiquinone and other terpenoid-quinone biosynthesis
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00261,Monobactam biosynthesis
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00350,Tyrosine metabolism
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00360,Phenylalanine metabolism
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00401,Novobiocin biosynthesis
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00460,Cyanoamino acid metabolism
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00680,Methane metabolism
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00730,Thiamine metabolism
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00940,Phenylpropanoid biosynthesis
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00950,Isoquinoline alkaloid biosynthesis
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00965,Betalain biosynthesis
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00966,Glucosinolate biosynthesis
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00970,Aminoacyl-tRNA biosynthesis
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00997,Biosynthesis of various other secondary metabolites
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00998,Biosynthesis of various antibiotics
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map00999,Biosynthesis of various plant secondary metabolites
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map01055,Biosynthesis of vancomycin group antibiotics
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map01059,Biosynthesis of enediyne antibiotics
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map01060,Biosynthesis of plant secondary metabolites
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map01063,Biosynthesis of alkaloids derived from shikimate pathway
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map01100,Metabolic pathways
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map01110,Biosynthesis of secondary metabolites
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map01210,2-Oxocarboxylic acid metabolism
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map01230,Biosynthesis of amino acids
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map01240,Biosynthesis of cofactors
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map04728,Dopaminergic synapse
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map04916,Melanogenesis
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map04917,Prolactin signaling pathway
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map04974,Protein digestion and absorption
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map05012,Parkinson disease
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map05030,Cocaine addiction
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map05031,Amphetamine addiction
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map05034,Alcoholism
+C_35761_212.0913mz_5.90min _1943_3-METHOXYTYROSINE),map05230,Central carbon metabolism in cancer
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00130,Ubiquinone and other terpenoid-quinone biosynthesis
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00261,Monobactam biosynthesis
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00350,Tyrosine metabolism
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00360,Phenylalanine metabolism
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00401,Novobiocin biosynthesis
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00460,Cyanoamino acid metabolism
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00680,Methane metabolism
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00730,Thiamine metabolism
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00940,Phenylpropanoid biosynthesis
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00950,Isoquinoline alkaloid biosynthesis
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00965,Betalain biosynthesis
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00966,Glucosinolate biosynthesis
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00970,Aminoacyl-tRNA biosynthesis
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00997,Biosynthesis of various other secondary metabolites
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00998,Biosynthesis of various antibiotics
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map00999,Biosynthesis of various plant secondary metabolites
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map01055,Biosynthesis of vancomycin group antibiotics
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map01059,Biosynthesis of enediyne antibiotics
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map01060,Biosynthesis of plant secondary metabolites
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map01063,Biosynthesis of alkaloids derived from shikimate pathway
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map01100,Metabolic pathways
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map01110,Biosynthesis of secondary metabolites
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map01210,2-Oxocarboxylic acid metabolism
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map01230,Biosynthesis of amino acids
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map01240,Biosynthesis of cofactors
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map04728,Dopaminergic synapse
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map04916,Melanogenesis
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map04917,Prolactin signaling pathway
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map04974,Protein digestion and absorption
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map05012,Parkinson disease
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map05030,Cocaine addiction
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map05031,Amphetamine addiction
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map05034,Alcoholism
+C_38944_227.0662mz_6.65min _11411_3-NITRO-L-TYROSINE),map05230,Central carbon metabolism in cancer
+C_47158_181.0495mz_8.64min _26611_Caffeic Acid),map00940,Phenylpropanoid biosynthesis
+C_47158_181.0495mz_8.64min _26611_Caffeic Acid),map00996,Biosynthesis of various alkaloids
+C_47158_181.0495mz_8.64min _26611_Caffeic Acid),map01061,Biosynthesis of phenylpropanoids
+C_47158_181.0495mz_8.64min _26611_Caffeic Acid),map01100,Metabolic pathways
+C_47158_181.0495mz_8.64min _26611_Caffeic Acid),map01110,Biosynthesis of secondary metabolites
+C_47158_181.0495mz_8.64min _26611_Caffeic Acid),map01220,Degradation of aromatic compounds
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map00130,Ubiquinone and other terpenoid-quinone biosynthesis
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map00360,Phenylalanine metabolism
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map00940,Phenylpropanoid biosynthesis
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map00996,Biosynthesis of various alkaloids
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map00999,Biosynthesis of various plant secondary metabolites
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map01060,Biosynthesis of plant secondary metabolites
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map01070,Biosynthesis of plant hormones
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map01100,Metabolic pathways
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map01110,Biosynthesis of secondary metabolites
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map01120,Microbial metabolism in diverse environments
+C_10308_149.0597mz_12.69min _20207_Cinnamic Acid),map01220,Degradation of aromatic compounds
+C_2595_195.0653mz_10.17min _4419_Ferulic Acid),map00627,Aminobenzoate degradation
+C_2595_195.0653mz_10.17min _4419_Ferulic Acid),map00940,Phenylpropanoid biosynthesis
+C_2595_195.0653mz_10.17min _4419_Ferulic Acid),map00996,Biosynthesis of various alkaloids
+C_2595_195.0653mz_10.17min _4419_Ferulic Acid),map01061,Biosynthesis of phenylpropanoids
+C_2595_195.0653mz_10.17min _4419_Ferulic Acid),map01100,Metabolic pathways
+C_2595_195.0653mz_10.17min _4419_Ferulic Acid),map01110,Biosynthesis of secondary metabolites
+C_10673_211.1328mz_12.84min _1335_Jasmonic Acid JA)),map00592,alpha-Linolenic acid metabolism
+C_10673_211.1328mz_12.84min _1335_Jasmonic Acid JA)),map01060,Biosynthesis of plant secondary metabolites
+C_10673_211.1328mz_12.84min _1335_Jasmonic Acid JA)),map01070,Biosynthesis of plant hormones
+C_10673_211.1328mz_12.84min _1335_Jasmonic Acid JA)),map01100,Metabolic pathways
+C_10673_211.1328mz_12.84min _1335_Jasmonic Acid JA)),map01110,Biosynthesis of secondary metabolites
+C_10673_211.1328mz_12.84min _1335_Jasmonic Acid JA)),map04075,Plant hormone signal transduction
+C_14462_324.2167mz_14.35min _7149_Jasmonic Acid-Isoleucine/leucine,map00592,alpha-Linolenic acid metabolism
+C_14462_324.2167mz_14.35min _7149_Jasmonic Acid-Isoleucine/leucine,map01060,Biosynthesis of plant secondary metabolites
+C_14462_324.2167mz_14.35min _7149_Jasmonic Acid-Isoleucine/leucine,map01070,Biosynthesis of plant hormones
+C_14462_324.2167mz_14.35min _7149_Jasmonic Acid-Isoleucine/leucine,map01100,Metabolic pathways
+C_14462_324.2167mz_14.35min _7149_Jasmonic Acid-Isoleucine/leucine,map01110,Biosynthesis of secondary metabolites
+C_14462_324.2167mz_14.35min _7149_Jasmonic Acid-Isoleucine/leucine,map04075,Plant hormone signal transduction
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00260,"Glycine, serine and threonine metabolism"
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00380,Tryptophan metabolism
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00404,Staurosporine biosynthesis
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00901,Indole alkaloid biosynthesis
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00966,Glucosinolate biosynthesis
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00970,Aminoacyl-tRNA biosynthesis
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00996,Biosynthesis of various alkaloids
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00997,Biosynthesis of various other secondary metabolites
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map00999,Biosynthesis of various plant secondary metabolites
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map01060,Biosynthesis of plant secondary metabolites
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map01061,Biosynthesis of phenylpropanoids
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map01063,Biosynthesis of alkaloids derived from shikimate pathway
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map01070,Biosynthesis of plant hormones
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map01100,Metabolic pathways
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map01110,Biosynthesis of secondary metabolites
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map01210,2-Oxocarboxylic acid metabolism
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map01230,Biosynthesis of amino acids
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map01240,Biosynthesis of cofactors
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map04361,Axon regeneration
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map04726,Serotonergic synapse
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map04974,Protein digestion and absorption
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map04978,Mineral absorption
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map05143,African trypanosomiasis
+C_41487_204.1143mz_7.21min _48660_L-TRYPTOPHANAMIDE),map05230,Central carbon metabolism in cancer
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00360,Phenylalanine metabolism
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00460,Cyanoamino acid metabolism
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00470,D-Amino acid metabolism
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00904,Diterpenoid biosynthesis
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00940,Phenylpropanoid biosynthesis
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00960,"Tropane, piperidine and pyridine alkaloid biosynthesis"
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00966,Glucosinolate biosynthesis
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00970,Aminoacyl-tRNA biosynthesis
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00996,Biosynthesis of various alkaloids
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00997,Biosynthesis of various other secondary metabolites
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map00999,Biosynthesis of various plant secondary metabolites
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map01060,Biosynthesis of plant secondary metabolites
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map01061,Biosynthesis of phenylpropanoids
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map01063,Biosynthesis of alkaloids derived from shikimate pathway
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map01064,"Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid"
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map01070,Biosynthesis of plant hormones
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map01100,Metabolic pathways
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map01110,Biosynthesis of secondary metabolites
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map01210,2-Oxocarboxylic acid metabolism
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map01230,Biosynthesis of amino acids
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map02010,ABC transporters
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map04974,Protein digestion and absorption
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map04978,Mineral absorption
+C_50388_208.0968mz_9.46min _9504_N-ACETYLPHENYLALANINE),map05230,Central carbon metabolism in cancer
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00260,"Glycine, serine and threonine metabolism"
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00380,Tryptophan metabolism
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00404,Staurosporine biosynthesis
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00901,Indole alkaloid biosynthesis
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00966,Glucosinolate biosynthesis
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00970,Aminoacyl-tRNA biosynthesis
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00996,Biosynthesis of various alkaloids
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00997,Biosynthesis of various other secondary metabolites
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map00999,Biosynthesis of various plant secondary metabolites
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map01060,Biosynthesis of plant secondary metabolites
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map01061,Biosynthesis of phenylpropanoids
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map01063,Biosynthesis of alkaloids derived from shikimate pathway
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map01070,Biosynthesis of plant hormones
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map01100,Metabolic pathways
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map01110,Biosynthesis of secondary metabolites
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map01210,2-Oxocarboxylic acid metabolism
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map01230,Biosynthesis of amino acids
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map01240,Biosynthesis of cofactors
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map04361,Axon regeneration
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map04726,Serotonergic synapse
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map04974,Protein digestion and absorption
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map04978,Mineral absorption
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map05143,African trypanosomiasis
+C_2899_247.1077mz_10.25min _46568_N-ACETYLTRYPTOPHAN),map05230,Central carbon metabolism in cancer
+C_12973_273.0758mz_13.76min _10404_Naringenin),map00941,Flavonoid biosynthesis
+C_12973_273.0758mz_13.76min _10404_Naringenin),map00943,Isoflavonoid biosynthesis
+C_12973_273.0758mz_13.76min _10404_Naringenin),map00946,Degradation of flavonoids
+C_12973_273.0758mz_13.76min _10404_Naringenin),map01061,Biosynthesis of phenylpropanoids
+C_12973_273.0758mz_13.76min _10404_Naringenin),map01100,Metabolic pathways
+C_12973_273.0758mz_13.76min _10404_Naringenin),map01110,Biosynthesis of secondary metabolites
+C_51119_165.0547mz_9.66min _13638_p-coumaric acid),map00130,Ubiquinone and other terpenoid-quinone biosynthesis
+C_51119_165.0547mz_9.66min _13638_p-coumaric acid),map00350,Tyrosine metabolism
+C_51119_165.0547mz_9.66min _13638_p-coumaric acid),map00940,Phenylpropanoid biosynthesis
+C_51119_165.0547mz_9.66min _13638_p-coumaric acid),map00950,Isoquinoline alkaloid biosynthesis
+C_51119_165.0547mz_9.66min _13638_p-coumaric acid),map01061,Biosynthesis of phenylpropanoids
+C_51119_165.0547mz_9.66min _13638_p-coumaric acid),map01100,Metabolic pathways
+C_51119_165.0547mz_9.66min _13638_p-coumaric acid),map01110,Biosynthesis of secondary metabolites
+C_51119_165.0547mz_9.66min _13638_p-coumaric acid),map01220,Degradation of aromatic compounds
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00360,Phenylalanine metabolism
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00460,Cyanoamino acid metabolism
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00470,D-Amino acid metabolism
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00904,Diterpenoid biosynthesis
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00940,Phenylpropanoid biosynthesis
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00960,"Tropane, piperidine and pyridine alkaloid biosynthesis"
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00966,Glucosinolate biosynthesis
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00970,Aminoacyl-tRNA biosynthesis
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00996,Biosynthesis of various alkaloids
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00997,Biosynthesis of various other secondary metabolites
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map00999,Biosynthesis of various plant secondary metabolites
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map01060,Biosynthesis of plant secondary metabolites
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map01061,Biosynthesis of phenylpropanoids
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map01063,Biosynthesis of alkaloids derived from shikimate pathway
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map01064,"Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid"
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map01070,Biosynthesis of plant hormones
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map01100,Metabolic pathways
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map01110,Biosynthesis of secondary metabolites
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map01210,2-Oxocarboxylic acid metabolism
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map01230,Biosynthesis of amino acids
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map02010,ABC transporters
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map04974,Protein digestion and absorption
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map04978,Mineral absorption
+C_36186_166.0862mz_6.04min _18638_Phenylalanine),map05230,Central carbon metabolism in cancer
+C_3004_225.0773mz_10.28min _37370_Sinapic acid),map00940,Phenylpropanoid biosynthesis
+C_3004_225.0773mz_10.28min _37370_Sinapic acid),map01061,Biosynthesis of phenylpropanoids
+C_3004_225.0773mz_10.28min _37370_Sinapic acid),map01100,Metabolic pathways
+C_3004_225.0773mz_10.28min _37370_Sinapic acid),map01110,Biosynthesis of secondary metabolites
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00260,"Glycine, serine and threonine metabolism"
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00380,Tryptophan metabolism
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00404,Staurosporine biosynthesis
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00901,Indole alkaloid biosynthesis
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00966,Glucosinolate biosynthesis
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00970,Aminoacyl-tRNA biosynthesis
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00996,Biosynthesis of various alkaloids
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00997,Biosynthesis of various other secondary metabolites
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map00999,Biosynthesis of various plant secondary metabolites
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map01060,Biosynthesis of plant secondary metabolites
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map01061,Biosynthesis of phenylpropanoids
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map01063,Biosynthesis of alkaloids derived from shikimate pathway
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map01070,Biosynthesis of plant hormones
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map01100,Metabolic pathways
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map01110,Biosynthesis of secondary metabolites
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map01210,2-Oxocarboxylic acid metabolism
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map01230,Biosynthesis of amino acids
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map01240,Biosynthesis of cofactors
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map04361,Axon regeneration
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map04726,Serotonergic synapse
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map04974,Protein digestion and absorption
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map04978,Mineral absorption
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map05143,African trypanosomiasis
+C_42845_205.0972mz_7.55min _98234_Tryptophan),map05230,Central carbon metabolism in cancer
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00130,Ubiquinone and other terpenoid-quinone biosynthesis
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00261,Monobactam biosynthesis
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00350,Tyrosine metabolism
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00360,Phenylalanine metabolism
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00401,Novobiocin biosynthesis
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00460,Cyanoamino acid metabolism
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00680,Methane metabolism
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00730,Thiamine metabolism
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00940,Phenylpropanoid biosynthesis
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00950,Isoquinoline alkaloid biosynthesis
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00965,Betalain biosynthesis
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00966,Glucosinolate biosynthesis
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00970,Aminoacyl-tRNA biosynthesis
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00997,Biosynthesis of various other secondary metabolites
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00998,Biosynthesis of various antibiotics
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map00999,Biosynthesis of various plant secondary metabolites
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map01055,Biosynthesis of vancomycin group antibiotics
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map01059,Biosynthesis of enediyne antibiotics
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map01060,Biosynthesis of plant secondary metabolites
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map01063,Biosynthesis of alkaloids derived from shikimate pathway
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map01100,Metabolic pathways
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map01110,Biosynthesis of secondary metabolites
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map01210,2-Oxocarboxylic acid metabolism
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map01230,Biosynthesis of amino acids
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map01240,Biosynthesis of cofactors
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map04728,Dopaminergic synapse
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map04916,Melanogenesis
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map04917,Prolactin signaling pathway
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map04974,Protein digestion and absorption
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map05012,Parkinson disease
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map05030,Cocaine addiction
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map05031,Amphetamine addiction
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map05034,Alcoholism
+C_31486_182.0811mz_4.58min _10030_Tyrosine),map05230,Central carbon metabolism in cancer
